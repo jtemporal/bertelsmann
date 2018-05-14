@@ -3,7 +3,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Este site vai conter as minhas anotações de estudo durante os 3 meses da bolsa de estudos da Bertelsmann Data Scholarship.
 permalink: ':title/'
 baseurl: "/bertelsmann" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://jtemporal.com" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
