@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Olá mundo!
-date: 2017-09-12 13:32:20 +0300
+date: 2018-05-15 13:32:20 +0300
 description: A bolsa para estudar estatística e concorrer a um Nanodegree
 img_url: https://pbs.twimg.com/media/DcNK6-sXkAY0Tk6.jpg:large
 img_description: bertelsmann scholar post
