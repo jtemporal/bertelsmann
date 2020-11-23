@@ -1,6 +1,6 @@
 title: Jessica's Bertelsmann Notebook
 description: > # this means to ignore newlines until "baseurl:"
-  Este site vai conter as minhas anotações de estudo durante os 3 meses da bolsa de estudos da Bertelsmann Data Scholarship.
+  Este site é o meu caderno de anotações de estudo da bolsa de estudos da Bertelsmann Data Scholarship.
 permalink: ':title/'
 baseurl: "/bertelsmann" # the subpath of your site, e.g. /blog
 url: "http://jtemporal.com" # the base hostname & protocol for your site, e.g. http://example.com
